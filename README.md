@@ -1,4 +1,6 @@
-# Rust :heart: Emacs
+# IfCoffeeThenCode's fork of Rust :heart: Emacs
+
+The main reason I've done this is to get past the whole (if|when)-let mess
 
 [![Join the chat at https://gitter.im/remacs-discuss/Lobby](https://badges.gitter.im/remacs-discuss/Lobby.svg)](https://gitter.im/remacs-discuss/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/remacs/remacs.svg?branch=master)](https://travis-ci.org/remacs/remacs)
